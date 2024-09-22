@@ -6,6 +6,7 @@ public class ContohReturnValue {
 
     public static void main(String[] args) {
         int hasilPenjumlahan = tambah(3, 5);
-        System.out.println("3 + 5" + hasilPenjumlahan);
+
+        System.out.println("3 + 5 = " + hasilPenjumlahan);
     }
 }
